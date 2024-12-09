@@ -13,6 +13,6 @@ FAa → Dataset for the Full-Sample analysis.
 
 Book1 → Dataset for the In-Sample analysis.
 
-Nome report es 3 → Report for Exercise 1.
+ES 1 Report → Report for Exercise 1.
 
 load("matlab_workspace"); If it does not work, upload the entire workspace directly.
