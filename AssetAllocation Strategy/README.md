@@ -31,7 +31,10 @@ backtester_(FullSample, InSample, Oos) → Backtester object, for performance me
 ES 3 Report strategie (1) → Report
 
 In-Sample Test Check:
+
 find_optimal_comb → Contains the code for testing and finding the optimal combination of strategies for the adaptive strategy.
+
 backtester_opt_adaptive → Backtester object, in case you want to avoid minutes of runtime for backtesting all possible strategy combinations and directly check (line 83).
+
 calib_Nmomentum → File used to determine the number of assets to select in the momentum strategies.
 
