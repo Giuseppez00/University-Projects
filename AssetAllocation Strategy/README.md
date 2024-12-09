@@ -21,9 +21,13 @@ The strategies and examples presented here are for informational purposes only a
 The files required to replicate the analysis are:
 
 ES3_final → Code
+
 Functions for strategies: (EquallyWeightedMomentum, MeanVariance_optLong, MeanVarianceMomLong, MinVariance, MinVarianceMomentum, RiskParity, RiskParityMomentum, VolParity, VolParityMomentum)
+
 ETF Dataset (2) → Dataset
+
 backtester_(FullSample, InSample, Oos) → Backtester object, for performance measures (lines 196-198), in case  want to avoid minutes of runtime in the code.
+
 ES 3 Report strategie (1) → Report
 
 In-Sample Test Check:
